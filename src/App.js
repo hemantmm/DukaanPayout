@@ -212,8 +212,6 @@ function App() {
         </div>
 
         <section className='p-8 bg-zinc-50'>
-          {/* <Payments /> */}
-
           <div className='flex items-center justify-between'>
             <div className='text-xl font-medium'>Overview</div>
             <div className='flex items-center gap-2 pt-1 pb-1 pl-2 pr-2 rounded bg-white border border-solid border-stone-300 text-zinc-700'>
