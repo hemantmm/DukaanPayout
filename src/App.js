@@ -6,7 +6,6 @@ function App() {
   return (
    <>
     <div className='flex home'>
-      {/* <Sidebar /> */}
       <div className='sticky bg-slate-800 h-screen w-56 inset-0 text-stone-300'>
         <div className='flex flex-col h-full'>
           <div className='flex gap-3 pt-4 pr-4 pb-5 pl-4'>
@@ -40,8 +39,7 @@ function App() {
           </div>
         </div>
       </div>
-      {/* <Navbar /> */}
-
+      
       <section className='bg-neutral-100 flex-1 overflow-auto'>
         <div className='flex justify-between pt-4 pb-4 pr-8 pl-8 bg-white border-b border-solid border-slate-700'>
           <div className='flex items-center gap-3'>
